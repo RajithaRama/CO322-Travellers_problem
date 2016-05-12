@@ -1,0 +1,25 @@
+Colombo Kandy Galle Matara NuwaraEliya Jaffna Trincomalee Kurunegala Anuradhapura Arugambay Pinnawala Yala
+Colombo Pinnawala 75
+Colombo Galle 85
+Colombo Anuradhapura 135
+Colombo Kurunegala 75
+Kandy Pinnawala 30
+Kandy NuwaraEliya 70
+Kandy Galle 160
+Kandy Anuradhapura 80
+Kandy Arugambay 180
+Kandy Kurunegala 30
+Kandy Trincomalee 160
+Galle Matara 40
+Matara NuwaraEliya 190
+Matara Arugambay 200
+Matara Yala 100
+Kurunegala Pinnawala 20
+Kurunegala Anuradhapura 80
+Anuradhapura Trincomalee 70
+Anuradhapura Jaffna 150
+Anuradhapura Arugambay 250
+NuwaraEliya Arugambay 150
+Trincomalee Jaffna 170
+Arugambay Trincomalee 150
+Arugambay Yala 130
